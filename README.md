@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+![build](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg)](https://coveralls.io/github/ntkme/github-buttons)
+[![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/github-buttons)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Prerequisite
 
-## Available Scripts
+[Node.js](https://nodejs.org/en/download/)
+[Netlify-cli](https://docs.netlify.com/cli/get-started/#installation)
 
-In the project directory, you can run:
+# Installation Guidlines
 
-### `npm start`
+## STEP 1
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Clone this Repository
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## STEP 2
 
-### `npm test`
+- Run --> Npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## STEP 3
 
-### `npm run build`
+- [Create your cluster with Datastax](https://astra.datastax.com/register)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## STEP 4
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Create .env file in the root directory and add your Database credentials with the following variable names
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ASTRA_DB_ID
+ASTRA_DB_REGION
+ASTRA_DB_USERNAME
+ASTRA_DB_PASSWORD
+ASTRA_DB_KEYSPACE
 
-### `npm run eject`
+## STEP 4
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Run --> Netlify Dev or Npm start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Overview
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This is A Full-Stack web application to showcase various benifits and services that Datastax Astra (Multi Cloud DBaaS built on Apache Cassandra™) offers.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Snapshot And Video Demos
 
-## Learn More
+# Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Payal Patra
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="payalpatra105" height="30" width="40" /></a>
+<a href="https://instagram.com/p_iconic_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="p_iconic_" height="30" width="40" /></a>
