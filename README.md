@@ -23,12 +23,12 @@
 
 ### Create .env file in the root directory and add your Database credentials with the following variable names
 
-## ASTRA_DB_ID
+### ASTRA_DB_ID
 
-ASTRA_DB_REGION
-ASTRA_DB_USERNAME
-ASTRA_DB_PASSWORD
-ASTRA_DB_KEYSPACE
+### ASTRA_DB_REGION
+### ASTRA_DB_USERNAME
+### ASTRA_DB_PASSWORD
+### ASTRA_DB_KEYSPACE
 
 ## STEP 4
 
@@ -38,7 +38,7 @@ ASTRA_DB_KEYSPACE
 
 This is A Full-Stack web application to showcase various benifits and services that Datastax Astra (Multi Cloud DBaaS built on Apache Cassandra™) offers.
 
-# Snapshot And Video Demos
+
 
 ## Author
 
