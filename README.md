@@ -1,31 +1,30 @@
-![build](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)
-[![Coverage Status](https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg)](https://coveralls.io/github/ntkme/github-buttons)
-[![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/github-buttons)
 
 # Prerequisite
 
-[Node.js](https://nodejs.org/en/download/)
-[Netlify-cli](https://docs.netlify.com/cli/get-started/#installation)
+### [Node.js](https://nodejs.org/en/download/)
+
+### [Netlify-cli](https://docs.netlify.com/cli/get-started/#installation)
 
 # Installation Guidlines
 
 ## STEP 1
 
-- Clone this Repository
+### Clone this Repository
 
 ## STEP 2
 
-- Run --> Npm install
+### Run --> Npm install
 
 ## STEP 3
 
-- [Create your cluster with Datastax](https://astra.datastax.com/register)
+### [Create your cluster with Datastax](https://astra.datastax.com/register)
 
 ## STEP 4
 
-- Create .env file in the root directory and add your Database credentials with the following variable names
+### Create .env file in the root directory and add your Database credentials with the following variable names
 
-ASTRA_DB_ID
+## ASTRA_DB_ID
+
 ASTRA_DB_REGION
 ASTRA_DB_USERNAME
 ASTRA_DB_PASSWORD
@@ -33,7 +32,7 @@ ASTRA_DB_KEYSPACE
 
 ## STEP 4
 
-- Run --> Netlify Dev or Npm start
+### Run --> Netlify Dev or Npm start
 
 ## Overview
 
@@ -41,12 +40,9 @@ This is A Full-Stack web application to showcase various benifits and services t
 
 # Snapshot And Video Demos
 
-# Author
+## Author
 
-- Payal Patra
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# Payal Patra
 
 <a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="payalpatra105" height="30" width="40" /></a>
 <a href="https://instagram.com/p_iconic_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="p_iconic_" height="30" width="40" /></a>
