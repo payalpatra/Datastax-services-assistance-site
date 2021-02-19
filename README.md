@@ -1,3 +1,4 @@
+### This was project i did for participating in a Hackhathon organized by [DataStax Astra](https://astra.datastax.com/register) and i was titled as the "Best Young Developer" for this project Submission.
 
 # Prerequisite
 
@@ -34,8 +35,18 @@
 
 ### Run --> Netlify Dev or Npm start
 
-## Overview
+## Snapshots
 
+![Home](https://user-images.githubusercontent.com/67522406/108467632-8ddd5980-72ab-11eb-9a00-2afa4d4d537f.png)
+![About](https://user-images.githubusercontent.com/67522406/108467642-933aa400-72ab-11eb-940c-234abf58362f.png)
+![Discover](https://user-images.githubusercontent.com/67522406/108467649-959cfe00-72ab-11eb-9800-92dc637447c2.png)
+![Enterprise](https://user-images.githubusercontent.com/67522406/108467653-9766c180-72ab-11eb-8c41-978259973f15.png)
+![Services](https://user-images.githubusercontent.com/67522406/108467659-99c91b80-72ab-11eb-9b19-a8e843e254e1.png)
+![Feedback](https://user-images.githubusercontent.com/67522406/108467665-9d5ca280-72ab-11eb-8572-700aa1e8323e.png)
+![ThankYou](https://user-images.githubusercontent.com/67522406/108467674-9fbefc80-72ab-11eb-9a70-ba092b093b58.png)
+
+
+## Overview
 This is A Full-Stack web application to showcase various benifits and services that Datastax Astra (Multi Cloud DBaaS built on Apache Cassandra™) offers.
 
 
