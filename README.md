@@ -10,34 +10,39 @@
 
 # Installation Guidlines
 
-## STEP 1
+### STEP 1
 
-### Clone this Repository
+ ```sh
+   git clone https://github.com/payalpatra/Food-Ordering-System.git
+   ```
+### STEP 2
 
-## STEP 2
+```sh
+   npm install
+   ```
 
-### Run --> Npm install
+### STEP 3
 
-## STEP 3
+#### [Create your cluster with Datastax](https://astra.datastax.com/register)
 
-### [Create your cluster with Datastax](https://astra.datastax.com/register)
+### STEP 4
+
+#### Create .env file in the root directory and add your Database credentials with the following variable names
+
+##### ASTRA_DB_ID
+##### ASTRA_DB_REGION
+##### ASTRA_DB_USERNAME
+##### ASTRA_DB_PASSWORD
+##### ASTRA_DB_KEYSPACE
 
 ## STEP 4
 
-### Create .env file in the root directory and add your Database credentials with the following variable names
-
-### ASTRA_DB_ID
-
-### ASTRA_DB_REGION
-### ASTRA_DB_USERNAME
-### ASTRA_DB_PASSWORD
-### ASTRA_DB_KEYSPACE
-
-## STEP 4
-
-### Run --> Netlify Dev or Npm start
-
-## Snapshots
+#### Run Netlify Dev or Npm start
+```sh
+ netlify dev    
+   ```
+   
+### Snapshots
 
 ![Home](https://user-images.githubusercontent.com/67522406/108467632-8ddd5980-72ab-11eb-9a00-2afa4d4d537f.png)
 ![About](https://user-images.githubusercontent.com/67522406/108467642-933aa400-72ab-11eb-940c-234abf58362f.png)
