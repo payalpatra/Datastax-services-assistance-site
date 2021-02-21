@@ -13,7 +13,7 @@
 ### STEP 1
 
  ```sh
-   git clone https://github.com/payalpatra/Food-Ordering-System.git
+   git clone https://github.com/payalpatra/Datastax-services-assistance-site.git
    ```
 ### STEP 2
 
