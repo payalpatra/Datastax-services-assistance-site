@@ -1,7 +1,7 @@
 ### This was the project i build for participating in a Hackhathon organized by [DataStax Astra](https://astra.datastax.com/register) and i was titled as the "Best Young Developer" for this project Submission.
 
-[DatasStax Holiday Hackathon](https://datastaxastra.hackerearth.com/#:~:text=The%20DataStax%20Holiday%20Hackathon%20is,us%20what%20you%20can%20do.)
-[Credentials](https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-8703-b21b5c3587c9.mp4) 
+* [DatasStax Holiday Hackathon](https://datastaxastra.hackerearth.com/#:~:text=The%20DataStax%20Holiday%20Hackathon%20is,us%20what%20you%20can%20do.)
+* [Credentials](https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-8703-b21b5c3587c9.mp4) 
 
 # Prerequisite
 
